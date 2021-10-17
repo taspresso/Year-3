@@ -50,3 +50,5 @@ git branch -D <branch_name> ===> deletes the branch even if it has unmerged chan
 
 # Merge Branch
 git merge <branch_name>  ==>  this command takes changes from the given branch, and merges with the current branches we are on. 
+
+Discord : taspresso #1998
